@@ -1,5 +1,5 @@
 variable "studentid" {
-  default = "student<xx>"
+  default = "student25"
   description = "Your student ID"
 }
 
