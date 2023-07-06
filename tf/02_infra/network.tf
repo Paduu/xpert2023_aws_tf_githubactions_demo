@@ -137,6 +137,7 @@ resource "aws_security_group" "public_allow" {
 
   tags = {
     Name = "Public Allow"
+    demo = "something"
   }
 }
 
